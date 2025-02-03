@@ -1,0 +1,32 @@
+.nav ul{
+    list-style: none;
+    display: flex;
+    margin-right: 4%;
+    justify-content: flex-end;
+}
+
+.nav li{
+    margin: 2%;
+}
+
+.ment{
+    display: flex;
+    background-color: rgb(182, 243, 245,0.5);
+    border: 12px double rgb(9, 68, 61);
+    border-radius: 5px;
+    justify-content: space-around;                                               
+}
+
+.m{
+    border: 2px dotted rgb(9, 68, 61);
+    border-radius: 5px;
+    margin: 2%;
+}
+.m > img {
+    height: 70%;
+    width: 100%;
+}
+
+.m>p{
+    text-align: center;
+}
