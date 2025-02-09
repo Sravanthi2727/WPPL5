@@ -117,3 +117,19 @@ a:hover {
 .cont > li {
   margin: 12px;
 }
+
+.m img {
+  width: 100%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .ment {
+    flex-direction: column;
+    align-items: center;
+  }
+  .nav ul {
+    flex-direction: column;
+    align-items: center;
+  }
+}
