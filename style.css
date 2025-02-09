@@ -76,10 +76,13 @@ body {
   border: 12px double rgb(9, 68, 61);
   border-radius: 5px;
   justify-content: space-around;
-
   box-shadow: rgba(246, 249, 250, 0.934) 0px -2px 5px,
     rgba(248, 248, 248, 0.989) 0px -15px 28px,
     rgba(248, 248, 249, 0.988) 0px -10px 78px;
+}
+
+span {
+  text-shadow: 6px 8px 10px #fff;
 }
 
 .m {
