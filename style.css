@@ -85,6 +85,20 @@ span {
   text-shadow: 6px 8px 10px #fff;
 }
 
+.nav > ul > li:hover {
+  text-shadow: 6px 8px 5px #0f0e0e;
+  color: black;
+}
+
+a {
+  color: rgb(190, 251, 229);
+}
+
+a:hover {
+  color: white;
+  text-shadow: 6px 8px 10px #bdf5f5;
+}
+
 .m {
   border: 2px dotted rgb(9, 68, 61);
   border-radius: 5px;
